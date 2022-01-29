@@ -1,0 +1,61 @@
+
+2022-01-27 06:18:34,692 INFO: Decryption started. Type: Caesar Cipher
+2022-01-27 06:18:34,704 INFO: Decryption completed succesfully!
+2022-01-27 06:18:42,835 INFO: Encryption started. Type: Caesar Cipher
+2022-01-27 06:18:42,836 INFO: Encryption completed succesfully!
+2022-01-27 06:18:47,892 INFO: Decryption started. Type: Caesar Cipher
+2022-01-27 06:18:47,892 INFO: Decryption completed succesfully!
+2022-01-28 04:39:58,757 INFO: Encryption started. Type: Caesar Cipher
+2022-01-28 04:39:58,785 INFO: Encryption completed succesfully!
+2022-01-28 04:40:14,526 INFO: Decryption started. Type: Caesar Cipher
+2022-01-28 04:40:14,527 INFO: Decryption completed succesfully!
+2022-01-29 02:05:41,061 ERROR: Caption key not found!: 'CaesarCypher'
+2022-01-29 02:06:25,385 INFO: Encryption started. Type: Caesar Cipher
+2022-01-29 02:06:25,400 ERROR: Encryption failed: unsupported operand type(s) for +: 'int' and 'str'
+2022-01-29 02:09:00,513 INFO: Encryption started. Type: Caesar Cipher
+2022-01-29 02:09:00,513 INFO: Encryption completed succesfully!
+2022-01-29 02:09:16,149 INFO: Encryption started. Type: Caesar Cipher
+2022-01-29 02:09:16,150 INFO: Encryption completed succesfully!
+2022-01-29 03:48:03,694 INFO: Encryption started. Type: Caesar Cipher
+2022-01-29 03:48:03,805 INFO: Encryption completed succesfully!
+2022-01-29 03:48:20,075 INFO: Decryption started. Type: Caesar Cipher
+2022-01-29 03:48:26,112 INFO: Decryption started. Type: Caesar Cipher
+2022-01-29 03:49:40,577 INFO: Decryption started. Type: Caesar Cipher
+2022-01-29 03:50:48,310 INFO: Decryption started. Type: Caesar Cipher
+2022-01-29 03:50:58,786 INFO: Decryption started. Type: Caesar Cipher
+2022-01-29 03:51:27,600 INFO: Decryption started. Type: Caesar Cipher
+2022-01-29 03:52:53,733 INFO: Decryption started. Type: Caesar Cipher
+2022-01-29 03:52:56,663 INFO: Encryption started. Type: Caesar Cipher
+2022-01-29 03:52:56,664 INFO: Encryption completed succesfully!
+2022-01-29 03:53:02,402 INFO: Decryption started. Type: Caesar Cipher
+2022-01-29 03:53:18,196 INFO: Encryption started. Type: Caesar Cipher
+2022-01-29 03:53:18,197 INFO: Encryption completed succesfully!
+2022-01-29 03:53:19,739 INFO: Decryption started. Type: Caesar Cipher
+2022-01-29 03:53:22,596 INFO: Encryption started. Type: Caesar Cipher
+2022-01-29 03:53:22,597 INFO: Encryption completed succesfully!
+2022-01-29 03:54:54,942 INFO: Decryption started. Type: Caesar Cipher
+2022-01-29 03:55:57,001 INFO: Decryption started. Type: Caesar Cipher
+2022-01-29 03:55:57,003 WARNING: Decryption failed: Decryption failed: bad operand type for unary -: 'str'
+2022-01-29 03:56:12,819 INFO: Decryption started. Type: Caesar Cipher
+2022-01-29 03:56:12,820 WARNING: Decryption failed: Decryption failed: bad operand type for unary -: 'str'
+2022-01-29 03:56:29,967 INFO: Decryption started. Type: Caesar Cipher
+2022-01-29 04:24:38,198 INFO: Encryption started. Type: Caesar Cipher
+2022-01-29 04:24:38,199 INFO: Encryption completed succesfully!
+2022-01-29 04:24:44,545 INFO: Decryption started. Type: Caesar Cipher
+2022-01-29 04:24:44,546 INFO: Decryption completed succesfully!
+2022-01-29 04:25:28,249 INFO: Encryption started. Type: Caesar Cipher
+2022-01-29 04:25:28,253 INFO: Encryption completed succesfully!
+2022-01-29 04:27:27,929 INFO: Decryption started. Type: Caesar Cipher
+2022-01-29 04:27:27,932 INFO: Decryption completed succesfully!
+2022-01-29 08:16:45,664 INFO: Encryption started. Type: Caesar Cipher
+2022-01-29 08:16:45,706 INFO: Encryption completed succesfully!
+2022-01-29 08:16:53,810 INFO: Decryption started. Type: Caesar Cipher
+2022-01-29 08:16:53,812 INFO: Decryption completed succesfully!
+2022-01-29 08:26:16,994 INFO: Encryption started. Type: Caesar Cipher
+2022-01-29 08:26:16,996 INFO: Encryption completed succesfully!
+2022-01-29 08:26:24,342 INFO: Decryption started. Type: Caesar Cipher
+2022-01-29 08:26:24,344 INFO: Decryption completed succesfully!
+2022-01-29 08:29:05,252 INFO: Encryption started. Type: Caesar Cipher
+2022-01-29 08:29:05,254 INFO: Encryption completed succesfully!
+2022-01-29 08:29:13,750 INFO: Decryption started. Type: Caesar Cipher
+2022-01-29 08:29:13,752 INFO: Decryption completed succesfully!
